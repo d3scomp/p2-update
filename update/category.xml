@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site>
-   <feature url="features/cz.cuni.mff.d3s.jdeeco.libs_0.0.1.jar" id="cz.cuni.mff.d3s.jdeeco.libs" version="0.0.1">
-      <category name="cz.cuni.mff.d3s.jdeeco"/>
-   </feature>
-   <category-def name="cz.cuni.mff.d3s.jdeeco" label="cz.cuni.mff.d3s.jdeeco"/>
-</site>
